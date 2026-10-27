@@ -16,3 +16,6 @@ Los diagramas de arquitectura presentes fueron creados utilizando el software op
     </tr>
   </table>
 </p>
+
+## SOLID
+[SOLID](./SOLID.cs)
